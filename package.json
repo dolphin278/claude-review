@@ -1,5 +1,5 @@
 {
-  "name": "claude-review",
+  "name": "@adacircuit/claude-review",
   "version": "0.1.0",
   "description": "AI code review for git diffs and GitHub PRs using Claude",
   "type": "module",
